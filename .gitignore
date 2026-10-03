@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# Your personal data stays on your machine, not on GitHub
+data/*.json
